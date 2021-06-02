@@ -1,0 +1,7 @@
+name: Generate Datas
+  uses: Platane/snk@master
+  with:
+    # github user name
+    github_user_name: victorreinor
+    # path of the generated gif
+    gif_out_path: # optional, default is ./github-contribution-grid-snake.gif
