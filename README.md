@@ -30,4 +30,4 @@
   ![Snake animation](https://github.com/victorreinor/victorreinor/blob/output/github-contribution-grid-snake.svg)
 </div>
   
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=victorreinor&style=flat-square&label=PROFILE+VIEWS" alt="victorreinor" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=victorreinor&style=flat-square&label=PROFILE+VIEWS" alt="victorreinor" style="display: none"/> </p>
