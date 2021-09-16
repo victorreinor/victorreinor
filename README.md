@@ -1,6 +1,6 @@
 ## Oi 👋, sou o Victor Reinor.
 
-- 🔭 Trabalho na [@Field Control](https://github.com/FieldControl) como desenvolvedor full stack
+- 🔭 Trabalho na [@Field Control](https://github.com/FieldControl) como desenvolvedor full stack;
 - 💙 Apaixonado por tecnologia;
 
 <div style="display: inline_block">
