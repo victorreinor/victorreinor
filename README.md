@@ -3,7 +3,7 @@
 - 🔭 Trabalho na [@Field Control](https://github.com/FieldControl) como desenvolvedor full stack
 - 💙 Apaixonado por tecnologia;
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="Victor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Victor-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/nodejs/nodejs-plain.svg">
   <img align="center" alt="Victor-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
