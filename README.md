@@ -1,7 +1,6 @@
 ## Oi 👋, sou o Victor Reinor.
 
 - 🔭 Trabalho na [@Field Control](https://github.com/FieldControl) como Tech Manager;
-- 💙 Apaixonado por tecnologia;
 
 <div style="display: inline_block">
   <img align="center" alt="Victor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
