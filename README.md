@@ -2,11 +2,11 @@
 
 Trabalho na Field Control 💙 como Tech Mananger (Gerente Técnico).
 
-#### Dia a dia:
+Como gerente técnico na Field Control, lidero iniciativas estratégicas voltadas à melhoria da gestão de serviços em uma das maiores corporações financeiras do Brasil, com impacto direto em uma base de mais de 100 milhões de usuários. Minha atuação vai além da gestão técnica: sou responsável por conduzir reuniões com clientes, realizar levantamentos presenciais, elaborar escopos e orçamentos, além de apoiar o time na tomada de decisões complexas envolvendo trade-offs técnicos e de produto.
 
-Como gerente técnico na Field Control, concentro meus esforços na melhoria da gestão de serviços em uma das grandes corporações financeiras do Brasil, que atende uma base de usuários vasta, composta por mais de 100 milhões de pessoas.
+Com uma trajetória sólida desde 2015 trabalhando com JavaScript e seu ecossistema, atuei como desenvolvedor full stack e mobile, passando por posições de liderança técnica até alcançar a gerência. Tenho experiência prática com tecnologias como Node.js, AngularJS, React, React Native, AWS, arquitetura serverless, bancos de dados relacionais e não relacionais, além da aplicação de princípios como SOLID, TDD e design patterns.
 
-Com uma sólida expertise em Javascript desde 2015, estou preparado para enfrentar os desafios diários de qualquer projeto. Além da minha proficiência técnica, assumo responsabilidades de gerenciamento de equipe e projetos, promovendo o desenvolvimento do time, elaborando propostas comerciais e muito mais.
+Atualmente, combino visão técnica e habilidades interpessoais para conectar as necessidades dos clientes com soluções robustas e escaláveis, promovendo a evolução contínua do produto, o crescimento do time e a entrega de valor com excelência.
 
 ----
 
@@ -14,8 +14,8 @@ Com uma sólida expertise em Javascript desde 2015, estou preparado para enfrent
 
 I work at Field Control 💙 as a Tech Manager.
 
-#### Daily:
+As a Technical Manager at Field Control, I lead strategic initiatives aimed at improving service management for one of the largest financial corporations in Brazil, directly impacting a user base of over 100 million people. My role goes beyond technical management: I am responsible for conducting client meetings, performing on-site assessments, preparing scopes and budgets, and supporting the team in making complex decisions involving technical and product trade-offs.
 
-As a technical manager at Field Control, I focus my efforts on improving service management in one of Brazil's major financial corporations, serving a vast user base of over 80 million people.
+With a solid track record since 2015 working with JavaScript and its ecosystem, I have worked as a full stack and mobile developer, progressed through technical leadership roles, and ultimately reached management. I have hands-on experience with technologies such as Node.js, AngularJS, React, React Native, AWS, serverless architecture, relational and non-relational databases, as well as applying principles like SOLID, TDD, and design patterns.
 
-With a solid expertise in Javascript since 2015, I am prepared to tackle the daily challenges of any project. In addition to my technical proficiency, I take on team and project management responsibilities, fostering team development, crafting business proposals, and much more.
+Currently, I combine technical vision and interpersonal skills to connect client needs with robust and scalable solutions, promoting the continuous evolution of the product, team growth, and the delivery of value with excellence.
